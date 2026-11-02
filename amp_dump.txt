@@ -1,0 +1,828 @@
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+AMP
+        Node mod
+        FenderID:       DUBS_Twin57
+        Node Parameters
+        volume                   -15(4.757944314009411)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               65twn(n/a)
+        gain                     0.5(5.0)
+        treb                     0.7(7.0)
+        mid                      0.72(7.199999999999999)
+        bass                     0.62(6.2)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        presence                 0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_Bassman59
+        Node Parameters
+        volume                   -14.403923(4.900475418519118)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               59bman(n/a)
+        gain                     0.65(6.5)
+        treb                     0.505882(5.058820000000001)
+        mid                      0.49(4.9)
+        bass                     0.62(6.2)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        presence                 0.62(6.2)
+        blend                    0.62(6.2)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypassType               Post(n/a)
+AMP
+        Node mod
+        FenderID:       DUBS_Princeton65
+        Node Parameters
+        volume                   -8.263186(6.6419725325441945)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               65prince(n/a)
+        gain                     0.322222(3.22222)
+        treb                     0.555556(5.555560000000001)
+        mid                      0.122222(1.22222)
+        bass                     0(0.0)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypassType               Post(n/a)
+AMP
+        Node mod
+        FenderID:       DUBS_Deluxe65
+        Node Parameters
+        volume                   -13.167182(5.209964879250485)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               65dlx(n/a)
+        gain                     0.288889(2.88889)
+        treb                     0.5(5.0)
+        mid                      0.333333(3.33333)
+        bass                     0.655556(6.55556)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+AMP
+        Node mod
+        FenderID:       DUBS_Twin65
+        Node Parameters
+        volume                   -8.573037(6.5408413135808186)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               65twn(n/a)
+        gain                     0.211111(2.11111)
+        treb                     0.488889(4.88889)
+        mid                      0.377778(3.77778)
+        bass                     0.788889(7.88889)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        bright                   True(10.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+AMP
+        Node mod
+        FenderID:       DUBS_Excelsior
+        Node Parameters
+        volume                   -15(4.757944314009411)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               exlsr(n/a)
+        gain                     0.3(3.0)
+        bright                   True(10.0)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        treb                     0.5(5.0)
+        mid                      0.5(5.0)
+        bass                     0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypassType               Post(n/a)
+AMP
+        Node mod
+        FenderID:       DUBS_Silvertone
+        Node Parameters
+        volume                   -15.827492(4.566924458035654)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               57dlx(n/a)
+        gain                     0.569336(5.693359999999999)
+        treb                     0.67(6.7)
+        mid                      0.898039(8.98039)
+        bass                     0.662745(6.6274500000000005)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_DR103
+        Node Parameters
+        volume                   -0.012894(9.993617192246889)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12v(n/a)
+        gain                     0.50708(5.0708)
+        treb                     0.721569(7.21569)
+        mid                      0.643137(6.431369999999999)
+        bass                     0.698039(6.98039)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   1(10.0)
+        presence                 0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+AMP
+        FenderID:       DUBS_Ac30Tb
+        Node Parameters
+        volume                   -1.170975(9.436647703808452)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               2x12c(n/a)
+        gain                     0.565918(5.65918)
+        treb                     0.783447(7.83447)
+        mid                      0.5(5.0)
+        bass                     0.7(7.0)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.376471(3.76471)
+        cut                      0.5(5.0)
+        bright                   True(10.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_Plexi87
+        Node Parameters
+        volume                   -9.208964(6.338080683513669)
+        gatePreset               low(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12g2(n/a)
+        gain                     0.877778(8.77778)
+        treb                     0.788889(7.88889)
+        mid                      0.777778(7.77778)
+        bass                     0.144444(1.44444)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        presence                 0.5(5.0)
+        blend                    0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_Jcm800
+        Node Parameters
+        volume                   -10.884403(5.833467964473162)
+        gatePreset               low(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12m(n/a)
+        gain                     0.99(9.9)
+        treb                     0.67(6.7)
+        mid                      0.4(4.0)
+        bass                     0.75(7.5)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.5(5.0)
+        presence                 0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+AMP
+        Node mod
+        FenderID:       DUBS_Or120
+        Node Parameters
+        volume                   -11.884403(5.551641848842083)
+        gatePreset               off(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12m2(n/a)
+        gain                     0.566162(5.661620000000001)
+        treb                     0.67(6.7)
+        mid                      0.313726(3.13726)
+        bass                     0.505882(5.058820000000001)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.498039(4.98039)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_SuperSonic
+        Node Parameters
+        volume                   -14.818684(4.800855380985579)
+        gatePreset               mid(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               1x12ss(n/a)
+        gain                     0.717647(7.17647)
+        treb                     0.67(6.7)
+        mid                      0.647059(6.4705900000000005)
+        bass                     0.61(6.1)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.360784(3.60784)
+        gain2                    0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_Rect2
+        Node Parameters
+        volume                   -13.884403(5.02817851689707)
+        gatePreset               high(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12v2(n/a)
+        gain                     0.55(5.5)
+        treb                     0.65(6.5)
+        mid                      0.15(1.5)
+        bass                     0.564697(5.64697)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.380392(3.80392)
+        presence                 0.392157(3.92157)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_MetalRect2
+        Node Parameters
+        volume                   -11.884403(5.551641848842083)
+        gatePreset               super(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12r(n/a)
+        gain                     0.55(5.5)
+        treb                     0.65(6.5)
+        mid                      0.15(1.5)
+        bass                     0.564697(5.64697)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.380392(3.80392)
+        presence                 0.392157(3.92157)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        Node mod
+        FenderID:       DUBS_Evh3
+        Node Parameters
+        volume                   -13.884403(5.02817851689707)
+        gatePreset               high(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12g2(n/a)
+        gain                     0.505859(5.05859)
+        treb                     0.67(6.7)
+        mid                      0.5(5.0)
+        bass                     0.509033(5.09033)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.5(5.0)
+        presence                 0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> C:\Software\Python315\python.exe .\mlt25.py
+info.displayName:       PUNK    STANDARD
+info.author:
+set Slot:               59
+Is custom?:             True
+PRE-FX
+        Node stomp
+        FenderID:       DUBS_Overdrive
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+        level                    0.5(5.0)
+        gain                     0.5(5.0)
+        low                      0.5(5.0)
+        mid                      0.5(5.0)
+        high                     0.5(5.0)
+        Node mod
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Post(n/a)
+AMP
+        Node mod
+        FenderID:       DUBS_MetalEvh3
+        Node Parameters
+        volume                   -15.884403(4.554072450307372)
+        gatePreset               super(n/a)
+        gateDetectorPosition     jack(n/a)
+        cabsimType               4x12frd(n/a)
+        gain                     0.505859(5.05859)
+        treb                     0.67(6.7)
+        mid                      0.5(5.0)
+        bass                     0.509033(5.09033)
+        sag                      match(n/a)
+        bias                     0.5(5.0)
+        master                   0.5(5.0)
+        presence                 0.5(5.0)
+POST-FX
+        Node delay
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+        Node reverb
+        FenderID:       DUBS_Passthru
+        Node Parameters
+        bypass                   False(0.0)
+        bypassType               Pre(n/a)
+
+Waitting 3 seconds for heartbeat...amp disconnected
+PS> 4x12frd

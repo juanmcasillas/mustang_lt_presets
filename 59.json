@@ -1,0 +1,203 @@
+{
+    "nodeType": "preset",
+    "nodeId": "preset",
+    "version": "1.1",
+    "numInputs": 2,
+    "numOutputs": 2,
+    "info": {
+        "displayName": "PUNK    STANDARD",
+        "preset_id": "82701e3e-caf7-11e7-b721-171e6c7d3090",
+        "author": "",
+        "source_id": "",
+        "timestamp": 1510855005,
+        "created_at": 0,
+        "product_id": "mustang-lt",
+        "is_factory_default": true,
+        "bpm": 0
+    },
+    "audioGraph": {
+        "nodes": [
+            {
+                "nodeId": "stomp",
+                "nodeType": "dspUnit",
+                "FenderId": "DUBS_Overdrive",
+                "dspUnitParameters": {
+                    "bypass": false,
+                    "bypassType": "Post",
+                    "level": 0.5,
+                    "gain": 0.5,
+                    "low": 0.5,
+                    "mid": 0.5,
+                    "high": 0.5
+                }
+            },
+            {
+                "nodeId": "mod",
+                "nodeType": "dspUnit",
+                "FenderId": "DUBS_Passthru",
+                "dspUnitParameters": {
+                    "bypass": false,
+                    "bypassType": "Post"
+                }
+            },
+            {
+                "nodeId": "delay",
+                "nodeType": "dspUnit",
+                "FenderId": "DUBS_Passthru",
+                "dspUnitParameters": {
+                    "bypass": false,
+                    "bypassType": "Pre"
+                }
+            },
+            {
+                "nodeId": "reverb",
+                "nodeType": "dspUnit",
+                "FenderId": "DUBS_Passthru",
+                "dspUnitParameters": {
+                    "bypass": false,
+                    "bypassType": "Pre"
+                }
+            },
+            {
+                "FenderId": "DUBS_Twin57",
+                "nodeId": "amp",
+                "nodeType": "dspUnit",
+                "dspUnitParameters": {
+                    "volume": -5.802921,
+                    "gain": 0.6,
+                    "treb": 0.4,
+                    "mid": 0.3,
+                    "bass": 0.7,
+                    "gatePreset": "off",
+                    "gateDetectorPosition": "jack",
+                    "cabsimType": "65twn",
+                    "sag": "match",
+                    "bias": 0,
+                    "presence": 0
+                }
+            }
+        ],
+        "connections": [
+            {
+                "input": {
+                    "nodeId": "delay",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "reverb",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "delay",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "reverb",
+                    "index": 1
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "reverb",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "preset",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "reverb",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "preset",
+                    "index": 1
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "preset",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "stomp",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "preset",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "stomp",
+                    "index": 1
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "stomp",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "mod",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "stomp",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "mod",
+                    "index": 1
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "mod",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "amp",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "mod",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "amp",
+                    "index": 1
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "amp",
+                    "index": 0
+                },
+                "output": {
+                    "nodeId": "delay",
+                    "index": 0
+                }
+            },
+            {
+                "input": {
+                    "nodeId": "amp",
+                    "index": 1
+                },
+                "output": {
+                    "nodeId": "delay",
+                    "index": 1
+                }
+            }
+        ]
+    }
+}
